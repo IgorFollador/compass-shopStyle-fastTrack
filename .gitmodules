@@ -1,3 +1,12 @@
 [submodule "shopStyle-MScustomer"]
 	path = shopStyle-MScustomer
 	url = https://github.com/IgorFollador/shopStyle-MScustomer.git
+[submodule "shopStyle-MScatalog"]
+	path = shopStyle-MScatalog
+	url = https://github.com/IgorFollador/shopStyle-MScatalog.git
+[submodule "shopStyle-MScheckout"]
+	path = shopStyle-MScheckout
+	url = https://github.com/IgorFollador/shopStyle-MScheckout.git
+[submodule "shopStyle-MShistory"]
+	path = shopStyle-MShistory
+	url = https://github.com/IgorFollador/shopStyle-MShistory.git
